@@ -2,7 +2,7 @@
 # Coding Virtual Worlds - Assignment 2
 
 
-This short document aims at presenting the features implemented for the second assignment of Coding Virtual Worlds. The assignment consists in a remake of the popular VR game "Beat Saber".
+Second assignment of the course Coding Virtual Worlds, held at Aalto University. The assignment consists in a remake of the popular VR game "Beat Saber".
 
 My implementation covers the following working functionalities:
 
