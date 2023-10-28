@@ -1,8 +1,13 @@
 # Aalto University
 # Coding Virtual Worlds - Assignment 2
 
-
 Second assignment of the course Coding Virtual Worlds, held at Aalto University. The assignment consists in a remake of the popular VR game "Beat Saber".
+
+<div  align="center">
+ <video src="https://github.com/alex-atanassov/cvw-beat-saber/assets/79805163/f5e41071-5634-4813-91bc-a4bc7deb790e" width="80%"/>
+</div >
+
+## Basic features
 
 My implementation covers the following working functionalities:
 
